@@ -1,4 +1,4 @@
-# DataMiningAndTextAnalysis
+# Data Mining And Text Analysis
 
 For  both  problems,  the  dataset required  extensively cleaning and pre-processing before data mining techniques could be applied and 
 knowledge gained. Importing, NaN removal,  data-type casting, parsing dictionaries, merging, and eliminating attributes were all processes carried
